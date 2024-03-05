@@ -1,6 +1,7 @@
 # library
 
-Simple book catalogue system where the user can add/remove books and mark them as read/unread
+Simple book catalogue system where the user can add/remove books and mark them as read/unread\
+View live page: https://dh-giang-vu.github.io/library/
 
 # What I Learned
 
